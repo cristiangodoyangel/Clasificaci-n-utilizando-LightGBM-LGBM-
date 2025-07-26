@@ -35,7 +35,7 @@ Predecir la variable `Loan_Status` (Aprobado / No aprobado) a partir de variable
 ## 🧠 Pipeline Desarrollado
 
 ### 1. **Carga y Exploración de Datos**
-- Análisis estructural (`.info()`, `.describe()`)
+- Análisis estructural 
 - Detección de nulos y outliers
 
 ### 2. **EDA - Análisis Exploratorio**
